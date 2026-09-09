@@ -1,2 +1,5 @@
 git clone: Sirve para clonar el repositorio remoto en una carperta local
 git commit: Este comando sirve para añadir una descripcion al cambio del proyecto o docuemnto
+git push: Este comando sirve para subir todos los cambios hechos ocalmente al repositorio remoto
+git status: Este comando sirve para ver el estado en el que se encuentra los elementos que han tenido cambios en el proyecto
+git add: Este comando sirve para preparar el archivo para el "git commit" y su posterior subida al repositorio remoto
